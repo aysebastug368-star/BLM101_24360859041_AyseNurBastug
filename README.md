@@ -9,7 +9,7 @@
 RLE (Run-Length Encoding) Sıkıştırıcı
 
 ## YouTube Linki
-[Video Linki](Buraya_YouTube_Linkinizi_Yapıştırın)
+[Video Linki](Buraya_YouTube_Linki)
 
 ## Proje Açıklaması
 Bu Python programı, verilen metin veya 0/1 matrisini Run-Length Encoding (RLE) yöntemiyle sıkıştırır ve eski hâline geri döndürür.
